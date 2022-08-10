@@ -55,10 +55,17 @@ h2 {
     display: flex;
     flex-direction: column;
 }
-.card-body {
- background-color: lightyellow;  
-    
-    
+.card-body1 {
+ background-color: lightyellow;       
+}
+.card-body2 {
+    background-color: lightskyblue;
+}
+.card-body3 {
+    background-color: lightgreen;  
+}
+.card-body4 {
+    background-color: plum;
 }
 h5 {
     text-align: center;
