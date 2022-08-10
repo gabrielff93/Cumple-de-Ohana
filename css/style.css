@@ -19,15 +19,18 @@
 
 .text1 {
     color: white;
-    font-size: 24px;
+    font-size: 26px;
+    font-family: 'Fredoka One', cursive;
 }
 .text2 {
     color: white;
     font-size: 22px;
+    font-family: 'Fredoka One', cursive;
 }
 .text3 {
     color: white;
-    font-size: 18px;
+    font-size: 20px;
+    font-family: 'Fredoka One', cursive;
 }
 
 iframe {
@@ -35,11 +38,13 @@ iframe {
 }
 
 h2 {
-    font-size: 26px;
+    font-family: 'Rubik Dirt', cursive;
+    font-size: 30px;
     background: greenyellow;
     border-radius: 12px;
     
 }
+
 
 .cards__contenedor {
     display: flex;
@@ -47,17 +52,23 @@ h2 {
     justify-content: center;
 }
 .card-group {
-    
     display: flex;
     flex-direction: column;
 }
 .card-body {
-    background-color:lightgreen
-   
+ background-color: lightyellow;  
+    
+    
 }
 h5 {
     text-align: center;
     font-size: 28px;
+}
+
+.card-text {
+    font-family: 'Fredoka One', cursive;
+    font-size: 24px;
+    color: white;
 }
 
 .img__final {
